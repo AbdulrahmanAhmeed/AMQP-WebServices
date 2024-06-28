@@ -40,8 +40,8 @@ AMQP Web Services is a Advanced Message Queuing Protocol web services Using (Rab
    3. At the command prompt or terminal, pull down the latest container image for RabbitMQ on Docker and run it
       `docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq`
 3. setting up Database
-   1.Navigate to the DB directory
-   2.Run "Northwind4SQLServer.sql" file in your MSSM Studio
+   1. Navigate to the DB directory
+   2. Run "Northwind4SQLServer.sql" file in your MSSM Studio
 
 ## Usage
 
