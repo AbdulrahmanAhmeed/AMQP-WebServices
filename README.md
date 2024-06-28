@@ -45,13 +45,12 @@ AMQP Web Services is a Advanced Message Queuing Protocol web services Using (Rab
 
 ## Usage
 
-Running Locally
--To start the application locally, open "AMQP & Background Services.sln" file in VS 2024
--Start the Northwind.WebApi.Service project without debugging "Click right on Northwind.WebApi.Service project Debug -> Start without Debuging"
--Start the Northwind.WebApi.Client.Mvc project without debugging so that we can send messages to the RabbitMQ queue
--In the MVC website, click Send a message, and then enter a message of apples and a product ID of 1.
--Repeat for bananas and 2, and cherries and 3.
--Start the Northwind.Background.Workers project without debugging, and note the three messages are processed from the queue
+1.Running Locally
+1.To start the application locally, open "AMQP & Background Services.sln" file in VS 2024
+2.Start the Northwind.WebApi.Service project without debugging "Click right on Northwind.WebApi.Service project Debug -> Start without Debuging"
+3.Start the Northwind.WebApi.Client.Mvc project without debugging so that we can send messages to the RabbitMQ queue
+4.In the MVC website, click Send a message, and then enter a message of apples and a product ID of 1 ,Repeat for bananas and 2, and cherries and 3.
+5.Start the Northwind.Background.Workers project without debugging, and note the three messages are processed from the queue
 
 ## Contact
 
