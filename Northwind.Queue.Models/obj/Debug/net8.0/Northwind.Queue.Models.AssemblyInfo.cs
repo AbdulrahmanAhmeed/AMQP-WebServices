@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Northwind.Queue.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf65198e13c8bfc15c16b4063b535949014cdda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eedead4b09134a586e0bf1aa97430e74d74fd693")]
 [assembly: System.Reflection.AssemblyProductAttribute("Northwind.Queue.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Northwind.Queue.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
