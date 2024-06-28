@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "QwkqUtk0+e3YAN6tUA6fjV0WBtHJNUxnxSMW32TkwGdDu3VxmB6+VE+D7jFlWDUBsQ/KUqpQ8OI51QXgZz2Y5w==",
+  "success": false,
+  "projectFilePath": "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Consumer\\Northwind.Queue.Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdo\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

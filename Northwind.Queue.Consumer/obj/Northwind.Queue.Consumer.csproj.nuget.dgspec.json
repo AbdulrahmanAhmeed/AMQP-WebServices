@@ -1,0 +1,149 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Consumer\\Northwind.Queue.Consumer.csproj": {}
+  },
+  "projects": {
+    "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Consumer\\Northwind.Queue.Consumer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Consumer\\Northwind.Queue.Consumer.csproj",
+        "projectName": "Northwind.Queue.Consumer",
+        "projectPath": "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Consumer\\Northwind.Queue.Consumer.csproj",
+        "packagesPath": "C:\\Users\\abdo\\.nuget\\packages\\",
+        "outputPath": "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Consumer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Models\\Northwind.Queue.Models.csproj": {
+                "projectPath": "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Models\\Northwind.Queue.Models.csproj"
+              },
+              "E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj": {
+                "projectPath": "E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.106/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Models\\Northwind.Queue.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Models\\Northwind.Queue.Models.csproj",
+        "projectName": "Northwind.Queue.Models",
+        "projectPath": "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Models\\Northwind.Queue.Models.csproj",
+        "packagesPath": "C:\\Users\\abdo\\.nuget\\packages\\",
+        "outputPath": "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\abdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj": {
+                "projectPath": "E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.106/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

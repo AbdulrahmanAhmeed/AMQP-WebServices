@@ -1,0 +1,40 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJ2e6G/4OzzgdCE8vbCINMvi/A7R4ZNz8USxqdU785rnjTIvXBbEfiSe9Y6YHK7xXScp60hqzgw6vKiq6Tor8Q==",
+  "success": false,
+  "projectFilePath": "E:\\.net\\AMQP-WebServices-\\Northwind.WebApi.Client.Mvc\\Northwind.WebApi.Client.Mvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.diagnostics\\8.0.0\\microsoft.extensions.diagnostics.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0\\microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.http\\8.0.0\\microsoft.extensions.http.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.http.polly\\8.0.4\\microsoft.extensions.http.polly.8.0.4.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\polly\\7.2.4\\polly.7.2.4.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1\\polly.contrib.waitandretry.1.1.1.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

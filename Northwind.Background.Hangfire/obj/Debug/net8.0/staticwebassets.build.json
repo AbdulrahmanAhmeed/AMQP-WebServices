@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ms48+niosfQ9ZkTtF+XCjtct1N+AMxBNpdikcg4SZWA=",
+  "Source": "Northwind.Background.Hangfire",
+  "BasePath": "_content/Northwind.Background.Hangfire",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "zUbVI58lZwEVoouwqAySRwXstHQZs7ZfGrY23mme0XdejQMHqgBSY6AMrJy2POh19jvS1dxOiMfawX1MAEV7yw==",
+  "success": false,
+  "projectFilePath": "E:\\.net\\AMQP-WebServices-\\Northwind.Queue.Models\\Northwind.Queue.Models.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "E:\\.net\\Chapter03\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

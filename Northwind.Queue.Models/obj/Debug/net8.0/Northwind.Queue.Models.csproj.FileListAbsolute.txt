@@ -1,0 +1,16 @@
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\bin\Debug\net8.0\Northwind.Queue.Models.deps.json
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\bin\Debug\net8.0\Northwind.Queue.Models.dll
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\bin\Debug\net8.0\Northwind.Queue.Models.pdb
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.dll
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.pdb
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\obj\Debug\net8.0\Northwind.Queue.Models.csproj.AssemblyReference.cache
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\obj\Debug\net8.0\Northwind.Queue.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\obj\Debug\net8.0\Northwind.Queue.Models.AssemblyInfoInputs.cache
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\obj\Debug\net8.0\Northwind.Queue.Models.AssemblyInfo.cs
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\obj\Debug\net8.0\Northwind.Queue.Models.csproj.CoreCompileInputs.cache
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\obj\Debug\net8.0\Northwind.Queue.Models.sourcelink.json
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\obj\Debug\net8.0\Northwind.Queue.Models.csproj.CopyComplete
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\obj\Debug\net8.0\Northwind.Queue.Models.dll
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\obj\Debug\net8.0\refint\Northwind.Queue.Models.dll
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\obj\Debug\net8.0\Northwind.Queue.Models.pdb
+E:\.net\apps-services-net8\code\Chapter09\Northwind.Queue.Models\obj\Debug\net8.0\ref\Northwind.Queue.Models.dll
