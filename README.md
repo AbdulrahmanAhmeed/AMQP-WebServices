@@ -54,4 +54,4 @@ AMQP Web Services is a Advanced Message Queuing Protocol web services Using (Rab
 
 ## Contact
 
--If you have any questions or feedback, please reach out to us at [abdulrahman.ahmed.abdulah@gmail.com].
+-If you have any questions or feedback, please reach out to me at [abdulrahman.ahmed.abdulah@gmail.com].
